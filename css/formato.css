@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1c1c1c;
+    padding: auto;
+}
+.orden {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.Separación {
+    margin-bottom: 25px;
+}
+li {
+    list-style-type: none;
+    color:#6e6e6e;
+}
+h3 {
+    color: aliceblue;
+}
+h6 {
+    color:#6e6e6e;
+}
+p {
+    color: aliceblue;
+}
+input {
+    padding: 10px;
+    border: 2px solid #818181;
+    border-radius: 5px;
+    background-color: #1c1c1c;
+    color: aliceblue;
+}
+button {
+    border: none;
+    border-radius: 5px;
+    background: #007BFF;
+    color: #fff;
+    cursor: pointer;
+}
+form {
+    display: flex;
+    gap: 5px;
+}
+.linea {
+    display: flex;
+    justify-content: center;
+    width: 750px;
+}
+.Company {
+    margin-left: 237px;
+    margin-top: -20px;
+}
+.i {
+    color: aliceblue;
+    margin-left: 934px;
+}
